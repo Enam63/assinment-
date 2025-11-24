@@ -1,0 +1,221 @@
+
+#header{
+    max-width:1440px;
+    height: 78px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 156px;
+    margin-right: 156px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: auto;
+    box-shadow:0 5px 5px 0 rgb(240, 236, 236);
+    border-radius: 9px;
+
+}
+.hero{
+    max-width: 1440px;
+    height: 455px;
+    background-color: #FEEAE9;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 156px;
+    margin-right: 156px;
+    display: flex;
+    box-shadow:0 5px 5px 0 rgb(240, 236, 236)
+}
+#tv-details{
+    padding-left: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: left;
+
+}
+#tv-details h1 {
+    font-weight: bold;
+    font-family: 'Trebucht MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 56px;e
+
+}
+
+#tv-details h3 {
+    font-size: 30px;
+    color:after #FF589B;
+}
+#tv-details button{
+    background-color:#FF589B;
+    color: white;
+    gap: 10px;
+    height: 47px;
+    width: 168px;
+    border-color: white;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+#tv-image{
+    height: 378px;
+    width: 402px;
+    padding-top:60px;
+    padding-bottom:60px; 
+    padding-right: 30px;
+}
+.hero{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 50px;
+    border-radius: 15px;
+    
+}
+
+.category{
+    max-width: 1440px;
+    height: 198px;
+     margin-left: 156px;
+    margin-right: 156px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: auto;
+}
+.section{
+     margin-left: 156px;
+     font-size: 32px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     opacity: 78%;
+     margin-top: 30px;
+}
+.watch-bag-shoes{
+    height: 120px;
+    width: 359px;
+     display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: auto;
+     border-radius: 9px;
+     box-shadow: 0 5px 5px 0  rgb(240, 236, 236);
+
+}
+#watch{
+    background-color:#FF9C35 ;
+}
+#bag{
+    background-color:#FF589B ;
+}
+#shoes{
+    background-color: #3F07F8;
+}
+.category h3 {
+    font-size: 36px;
+    color: white;
+    padding-left: 35px;
+}
+.category img{
+    padding-right: 35px;
+}
+.shoes{
+    height: 582px;
+    max-width: 1440px;
+    padding-left: 156px;
+    padding-right: 156px;
+    display: flex;
+    justify-content:space-between;
+    
+
+}
+.shoes-lagbe{
+     
+ height: 470px;
+    width: 359px;
+    border: 1px solid black;
+   text-align: center;
+   border-radius: 20px;
+   box-shadow: 0 5px 5px 0  rgb(146, 135, 135);
+   gap: 20px;
+    
+}
+.shoes h4{
+    font-size: 17px;
+}
+ .shoes button{
+     background-color: rgb(37, 35, 35);
+    color: rgb(255, 255, 255);
+    height: 52px;
+    width: 168px;
+ }
+.backpacks{
+    height: 582px;
+    max-width: 1440px;
+    padding-left: 156px;
+    padding-right: 156px;
+    display: flex;
+    justify-content:space-between;
+  
+    
+
+}
+.backpack-lagbe{
+     
+ height: 470px;
+    width: 359px;
+    border: 1px solid black;
+   text-align: center;
+   border-radius: 20px;
+   box-shadow:0 5px 5px 0 rgb(146, 135, 135);
+    
+}
+.backpack-lagbe img{
+    height: 200px;
+    width:  200px;
+}
+.backpacks h4{
+    font-size: 17px;
+}
+.backpacks button{
+    background-color: rgb(37, 35, 35);
+    color: rgb(255, 255, 255);
+    height: 52px;
+    width: 168px;
+}
+   #footer{
+    max-width: 1440px;
+    height: 455px;
+    background-color: #FEEAE9;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 156px;
+    margin-right: 156px;
+    display: flex;
+    box-shadow:0 5px 5px 0 rgb(240, 236, 236);
+    
+}
+.newsletter-box {
+    text-align: center;
+    padding-top: 246px;
+}
+
+.newsletter-box h2 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 6px;
+}
+
+.newsletter-box p {
+    font-size: 14px;
+    color: #7a7a7a;
+    margin-top: 0;
+}
+.container{
+    max-width: 1440px;
+    height: 500px;
+    background-color:#FEEAE9;
+    align-items: center;
+    margin-left: 156px;
+    margin-right: 156px;
+    border-radius: 15px;
+    box-shadow:0 5px 5px 0 rgb(240, 236, 236);
+    margin-bottom: 30px;
+}
