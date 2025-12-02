@@ -192,13 +192,14 @@
     }
     }
 form{
-       
-        text-align: center;
-            input{
-        width: 100%;
-       margin-top: 12px;
+        display: flex;
+        justify-content: center;
+        margin-top: 12px; 
+
+    input{
+
     max-width: 450px;
-    padding: 15px 20px;
+    padding: 20px 60px;
     border:0;
     border-radius: 8px;
     font-size: 15px;
@@ -206,9 +207,9 @@ form{
     border-top-right-radius: 0;
     }
     button{
-    border: 0;
-    margin-top: 12px;  
-    padding: 15px 20px;
+
+    border: 0; 
+    padding: 20px 30px;
     background-color: #FF136F;
     border-radius: 8px;
     border-bottom-left-radius: 0;
